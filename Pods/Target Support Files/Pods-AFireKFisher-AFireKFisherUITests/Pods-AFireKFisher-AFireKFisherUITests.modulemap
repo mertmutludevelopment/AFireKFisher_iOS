@@ -1,0 +1,6 @@
+framework module Pods_AFireKFisher_AFireKFisherUITests {
+  umbrella header "Pods-AFireKFisher-AFireKFisherUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

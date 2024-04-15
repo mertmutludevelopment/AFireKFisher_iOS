@@ -7,6 +7,10 @@ target 'AFireKFisher' do
 
   # Pods for AFireKFisher
 
+pod 'Alamofire'
+pod 'Kingfisher'
+
+
   target 'AFireKFisherTests' do
     inherit! :search_paths
     # Pods for testing
